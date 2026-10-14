@@ -1,4 +1,16 @@
+# Week 1 - Face Recognition with PCA / Eigenfaces
+# Recommended for Python 3.11
+
 numpy==1.26.4
 opencv-python==4.10.0.84
 scikit-learn==1.6.1
 joblib==1.4.2
+
+# Used by the Jupyter notebook
+matplotlib==3.10.0
+pandas==2.2.3
+Pillow==11.1.0
+
+# Jupyter environment
+jupyter==1.1.1
+ipykernel==6.29.5
