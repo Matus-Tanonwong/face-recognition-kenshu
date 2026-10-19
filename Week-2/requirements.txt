@@ -1,0 +1,12 @@
+# CNN teaching notebooks — tested-version targets for Python 3.11
+# Install in a NEW conda environment to avoid existing-package conflicts.
+# For Windows/Linux with NVIDIA GPU, install the appropriate CUDA PyTorch wheels separately.
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+matplotlib==3.9.2
+scipy==1.14.1
+scikit-learn==1.5.2
+Pillow==11.0.0
+jupyterlab==4.3.2
+ipykernel==6.29.5

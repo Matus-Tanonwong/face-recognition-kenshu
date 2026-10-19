@@ -1,0 +1,6 @@
+# Ignore all PNG images
+*.png
+*.jpg
+# Ignore dataset folders
+/Week-2/data/
+/Week-2/flower_data/
