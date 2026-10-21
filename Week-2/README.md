@@ -1,4 +1,13 @@
 # Week — Image Classification with CNNs: MNIST & Flowers
+
+### MNIST Dataset / MNISTデータセット
+
+![MNIST Examples](mnist_examples.png)
+
+### Flower Dataset / 花のデータセット
+
+![Flower Examples](flower_examples.png)
+
 # 今週の演習 — CNNによる画像分類：MNISTと花画像データセット
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
